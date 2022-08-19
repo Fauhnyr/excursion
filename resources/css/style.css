@@ -1,0 +1,16 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+.title{
+    color: white;
+    font-family: Verdana;
+    font-size: 3.125rem;
+    font-weight: normal;
+}
+a {
+    color: aquamarine;
+    font-size: 1rem;
+    font-family: Verdana;
+    font-weight:normal;
+}
