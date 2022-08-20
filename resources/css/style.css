@@ -1,6 +1,7 @@
 * {
     background-color: black;
     text-align: center;
+    box-sizing: border-box;
 }
 /* header and hyperlink */
 .title{
@@ -20,9 +21,16 @@ h2 {
     font-family: Verdana;
     font-weight: 300;
     font-size: 2.625rem;
+    color: white;
 }
-.class {
+.remember {
     font-family: Verdana;
     font-size: 1.3125rem;
     color: gray;
+}
+
+.phone {
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
 }
